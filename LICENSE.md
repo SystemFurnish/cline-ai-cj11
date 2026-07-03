@@ -1,4 +1,4 @@
-# 
+# Nuevo Cline plugins. Con soporte multilenguaje y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
